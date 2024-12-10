@@ -636,6 +636,7 @@ body {
     padding:12px 50px;
     background-color: rgba(0, 0, 0, 0.4);
     align-items: center;
+    flex:10;
 }
 .nav-page{
     display:flex;
@@ -673,6 +674,9 @@ body {
 .nav-button:hover{
     background-color:#e2c376 ;
     color:black;
+}
+.page{
+    color:white;
 }
 .page:hover{
     color:#e2c376;
